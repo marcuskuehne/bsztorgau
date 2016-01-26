@@ -19,13 +19,13 @@ h2, {
 	line-height: 1.5;
 }
 h1 {
-	color: #DD2C00;
+	color:  #1E88E5;
 	font-size: 2.5em;
 	a,
 	a:visited {
       	font-weight: 400;
 		text-decoration: none;
-		color: #DD2C00;
+		color: #1E88E5;
 	}
 }
 h2 {
@@ -33,13 +33,13 @@ h2 {
 }
 a,
 a:visited {
-	color: $link-color;
+	color: #1565C0;
 	text-decoration: underline;
 	font-weight: bold;
 }
 a:hover {
   text-decoration: none;
-	color: #DD2C00;
+	color: #1565C0;
 }
 header {
 	padding: 0px 15px;
@@ -95,7 +95,7 @@ aside {
 					&:hover,
 					&:active {
             text-decoration: none;
-						color: #DD2C00;
+						color: #1565C0;
 					}
 				}
 			}
@@ -132,7 +132,7 @@ footer {
 					&:hover,
 					&:active {
             text-decoration: none;
-						color: #DD2C00;
+						color: #1565C0;
 					}
 				}
 			}
