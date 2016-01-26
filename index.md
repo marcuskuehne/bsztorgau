@@ -4,9 +4,9 @@ layout: default
 
 ##Kontakt##
 
-###Treuenbrietzener Straße 28 | 14913 Altes Lager ###
+###Prager Straße 1 | 04860 Torgau ###
 
 ###Tel.: 0173/6102578 ###
 
-###E-Mail: 0173/6102578@vodafone.de###
+###E-Mail: 01736102578(at)vodafone.de###
 
