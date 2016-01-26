@@ -1,0 +1,150 @@
+body {
+	margin: 0;
+	color: $font-color;
+	font-family: $font-style;
+	font-size: 1.1em;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+}
+
+h3{
+  color: $heading-font-color;
+ 	font-weight: 400; 
+}
+
+h1,
+h2, {
+	font-weight: 300;
+	color: $heading-font-color;
+	line-height: 1.5;
+}
+h1 {
+	color: #DD2C00;
+	font-size: 2.5em;
+	a,
+	a:visited {
+      	font-weight: 400;
+		text-decoration: none;
+		color: #DD2C00;
+	}
+}
+h2 {
+	font-size: 2em;
+}
+a,
+a:visited {
+	color: $link-color;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a:hover {
+  text-decoration: none;
+	color: #DD2C00;
+}
+header {
+	padding: 0px 15px;
+	text-align: center;
+	margin: 30px 0 0;
+	height: 30vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+main {
+	padding: 0 15px;
+	max-width: $content-width;
+	margin: 0 auto;
+}
+time {
+	color: #898989;
+}
+.container {
+	max-width: $content-width;
+	margin: 0 auto;
+}
+
+/* Aside */
+
+aside {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: #fff;
+	width: 100%;
+	z-index: 2;
+	border-bottom: 1px solid lighten($light, 30%);
+	box-shadow: 0px 1px 1px RGBA(4, 25, 54, .1);
+	nav {
+		max-width: 800px;
+		margin: 0 auto;
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			li {
+				float: left;
+				position: relative;
+				a {
+					text-decoration: none;
+					display: block;
+					padding: 15px;
+					font-family: 'Muli', sans-serif;
+					line-height: 20px;
+					margin-bottom: -1px;
+					box-shadow: 0;
+					&:hover,
+					&:active {
+            text-decoration: none;
+						color: #DD2C00;
+					}
+				}
+			}
+		}
+		&:after {
+			content: '';
+			display: table;
+			clear: both;
+		}
+	}
+}
+footer {
+  border-top: 1px solid #898989;
+  font-size: 14px;
+	text-align: center;
+	padding: 20px;
+	nav {
+		max-width: 800px;
+		margin: 0 auto;
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			li {
+				position: relative;
+				a {
+					text-decoration: none;
+					display: block;
+					padding: 15px;
+					font-family: 'Muli', sans-serif;
+					line-height: 20px;
+					margin-bottom: -1px;
+					box-shadow: 0;
+					&:hover,
+					&:active {
+            text-decoration: none;
+						color: #DD2C00;
+					}
+				}
+			}
+		}
+  }
+}
+
+article{
+  margin-bottom: 150px;
+  h2,h3{text-align: center;};
+}
+
+.center{
+  text-align: center;
+}
