@@ -1,12 +1,14 @@
----
-layout: default
----
 
-##Kontakt##
 
-###Prager Straße 1 | 04860 Torgau ###
+#Bildungszentrum Torgau#
 
-###Tel.: 0173/6102578 ###
+##Weiterbildungsakademie für Schutz und Sicherheit##
 
-###E-Mail: 01736102578(at)vodafone.de###
+Ihr Anbieter für Lehrgänge und Weiterbildung zu den Themen Waffenrecht, 
+Waffensachkunde und Ausbildung zur Sicherheitsfachkraft. Wir bilden Sie Aus.
 
+##Arbeiten Sie da wo sicherheit gebraucht wird##
+
+Mit einem Abschluss am Bildungszentrum Torgau sind Ihre Einsatzmöglichkeiten vielfältig.
+
+|Luftfahrt|Bundeswehr|Kaufhaus|Stadt und Bahn
