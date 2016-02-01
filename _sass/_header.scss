@@ -12,10 +12,16 @@ aside {
 	position: fixed;
 	top: 0;
 	left: 0;
-	background: #cc3225;
+	background: #323232;
 	width: 100%;
 	z-index: 2;
-	border-bottom: 1px solid #C62828;
+	border-bottom: 1px solid #f2f2f2;
+  .logo{
+    padding: 5px 0px 0px 0px;
+    display: inline-block;
+    width: 50px;
+    float:left;
+  }
 	nav {
 		max-width: 800px;
 		margin: 0 auto;
@@ -25,15 +31,15 @@ aside {
 			list-style: none;
 			li {
 				position: relative;
-        .logo{
-          float:left;
-        }
 				a {
+          font-family: 'Anonymous Pro', arial !important;
+          font-weight: 200;
+          font-size: 22px;
           float: right;
           color: #ffffff !important;
 					text-decoration: none;
 					display: block;
-					padding: 15px;
+					padding:20px 10px 10px 10px;
 					font-family: 'Muli', sans-serif;
 					line-height: 20px;
 					margin-bottom: -1px;
